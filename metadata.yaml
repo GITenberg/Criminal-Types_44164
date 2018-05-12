@@ -1,0 +1,27 @@
+_repo: Criminal-Types_44164
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44164-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Masten, V. M. (Vincent Myron)
+    alias: Masten, Vincent Myron
+    gutenberg_agent_id: '42614'
+    url: http://www.gutenberg.org/2009/agents/42614
+description: ''
+gutenberg_issued: '2013-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44164'
+  lccn: '22015898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- United States'
+- !lcsh 'Crime -- United States'
+- !lcc 'HV'
+title: Criminal Types
+url: http://www.gutenberg.org/ebooks/44164
